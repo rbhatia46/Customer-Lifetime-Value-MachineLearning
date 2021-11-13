@@ -17,3 +17,4 @@ Computing Customer Lifetime value via Machine Learning approach
 4. Predict the next purchase day
 5. Integrate through a REST API to create a dashboard.
 6. Leverage Product/Item catalog(if available)
+7. Try a Pareto/NBD Model and other classic statistical approaches.
