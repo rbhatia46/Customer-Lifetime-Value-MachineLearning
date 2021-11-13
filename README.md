@@ -1,5 +1,4 @@
 # Customer-Lifetime-Value-MachineLearning
-Computing Customer Lifetime value via Machine Learning approach
 
 ## 3 Questions to answer - 
 
